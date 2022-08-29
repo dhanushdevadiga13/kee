@@ -1,0 +1,7 @@
+class kee
+{
+ public static void (string args[])
+ {
+  System.out.println("hello");
+}
+}
